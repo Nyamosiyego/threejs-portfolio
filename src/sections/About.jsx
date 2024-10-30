@@ -25,7 +25,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Edmond Nyamosi</p>
               <p className="grid-subtext">
-                With 1 years of experience, I have honed my skills in both frontend and backend dev, creating dynamic
+                With 1 year of experience, I have honed my skills in both frontend and backend dev, creating dynamic
                 and responsive websites.
               </p>
             </div>
@@ -63,7 +63,7 @@ const About = () => {
             </div>
             <div>
               <p className="grid-headtext">I’m very flexible with time zone communications & locations</p>
-              <p className="grid-subtext">I&apos;m based in Rjieka, Croatia and open to remote work worldwide.</p>
+              <p className="grid-subtext">I&apos;m based in Nairobi, Kenya and open to remote work worldwide.</p>
               <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
             </div>
           </div>

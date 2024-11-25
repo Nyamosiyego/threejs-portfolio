@@ -261,6 +261,15 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 
 export const workExperiences = [
   {
+    id: 2,
+    name: 'MedicinaChain',
+    pos: 'Software Engineer Intern',
+    duration: '10/2024 – Present',
+    title: "Developed React Native UIs for both Android and iOS platforms. Enhanced user interfaces and implemented updates, resulting in a 25% reduction in reported UI bugs and improved user satisfaction. Optimized React Native components to reduce load times by 15%, improving performance across devices and browsers.",
+    icon: '/assets/logo.png',
+    animation: 'victory',
+  },
+  {
     id: 1,
     name: 'PwC',
     pos: 'Software Engineer Intern',
